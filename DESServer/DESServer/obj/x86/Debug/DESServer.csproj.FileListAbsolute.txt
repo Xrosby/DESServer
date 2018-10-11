@@ -1,0 +1,6 @@
+/Users/bruger/Desktop/DESClientServer/DESServer/DESServer/bin/Debug/DESServer.exe
+/Users/bruger/Desktop/DESClientServer/DESServer/DESServer/bin/Debug/DESServer.pdb
+/Users/bruger/Desktop/DESClientServer/DESServer/DESServer/obj/x86/Debug/DESServer.csprojResolveAssemblyReference.cache
+/Users/bruger/Desktop/DESClientServer/DESServer/DESServer/obj/x86/Debug/DESServer.csproj.CoreCompileInputs.cache
+/Users/bruger/Desktop/DESClientServer/DESServer/DESServer/obj/x86/Debug/DESServer.exe
+/Users/bruger/Desktop/DESClientServer/DESServer/DESServer/obj/x86/Debug/DESServer.pdb

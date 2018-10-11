@@ -71,7 +71,7 @@ namespace Client
 			Stream networkStream = connectionManager.getNetworkSteam();
 			byte[] bytes_data = new byte[100];
 			int size = networkStream.Read(bytes_data, 0, 100);
-			Console.Write("Message from Server is: \n -> ");
+			Console.Write("Message from Server: \n -> ");
 			PrintServersMsge(bytes_data, size);
 		}
 
@@ -125,8 +125,7 @@ namespace Client
 		public void ClientConnect()
 		{
 			tcpClient = new TcpClient(); // create TCP client
-			Console.WriteLine("\n****");
-			Console.WriteLine("Connecting to Server \n***** \n");
+			Console.WriteLine("\n\nConnecting to Server..");
 			tcpClient.Connect(ipAddress, port); // try connecting to server IPaddress and open port
 		}
 

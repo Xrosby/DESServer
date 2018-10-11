@@ -4,3 +4,10 @@
 /Users/bruger/Desktop/DESClientServer/DESServer/DESServer/obj/x86/Debug/DESServer.csproj.CoreCompileInputs.cache
 /Users/bruger/Desktop/DESClientServer/DESServer/DESServer/obj/x86/Debug/DESServer.exe
 /Users/bruger/Desktop/DESClientServer/DESServer/DESServer/obj/x86/Debug/DESServer.pdb
+C:\Users\phoel\OneDrive\Dokumenter\GitHub\DESServer\DESServer\DESServer\bin\Debug\DESServer.exe.config
+C:\Users\phoel\OneDrive\Dokumenter\GitHub\DESServer\DESServer\DESServer\bin\Debug\DESServer.exe
+C:\Users\phoel\OneDrive\Dokumenter\GitHub\DESServer\DESServer\DESServer\bin\Debug\DESServer.pdb
+C:\Users\phoel\OneDrive\Dokumenter\GitHub\DESServer\DESServer\DESServer\obj\x86\Debug\DESServer.csprojAssemblyReference.cache
+C:\Users\phoel\OneDrive\Dokumenter\GitHub\DESServer\DESServer\DESServer\obj\x86\Debug\DESServer.csproj.CoreCompileInputs.cache
+C:\Users\phoel\OneDrive\Dokumenter\GitHub\DESServer\DESServer\DESServer\obj\x86\Debug\DESServer.exe
+C:\Users\phoel\OneDrive\Dokumenter\GitHub\DESServer\DESServer\DESServer\obj\x86\Debug\DESServer.pdb
